@@ -1,19 +1,19 @@
 Product Management API:
 📦 Features
-Insert a single product
+**Insert a single product
 Insert multiple products
 Retrieve a product by ID
 Retrieve all products
 Update a product
 Delete a product by ID
-Delete all products
+Delete all products**
 -------------------
 🛠️ Tech Stack
-Java 17+
+**Java 17+
 Spring Boot
 Spring Web
 Spring Data JPA
-MySQL (or any JPA-compatible database)
+MySQL (or any JPA-compatible database)**
 -------------------------
 Project Structure:
 com.sufi.tech
